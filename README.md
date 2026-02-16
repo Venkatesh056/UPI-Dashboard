@@ -125,13 +125,26 @@ The dashboard simulates a real-world **fintech analytics environment**, enabling
 
 ## 📸 Dashboard Preview
 
-![Dashboard Page 1] 
-![Dashboard Page 2]
-![Dashboard Page 3] 
-![Dashboard Page 4]
-![Dashboard Page 5] 
-![Dashboard Tooltip]
+### 🏠 Home Page
+![Home](https://raw.githubusercontent.com/Venkatesh056/UPI-Dashboard/master/images/Home.png)
 
+### 📊 Page 1
+![Page 1](https://raw.githubusercontent.com/Venkatesh056/UPI-Dashboard/master/images/Page%201.png)
+
+### 📈 Page 2
+![Page 2](https://raw.githubusercontent.com/Venkatesh056/UPI-Dashboard/master/images/Page%202.png)
+
+### 📉 Page 3
+![Page 3](https://raw.githubusercontent.com/Venkatesh056/UPI-Dashboard/master/images/Page%203.png)
+
+### 💳 Page 4
+![Page 4](https://raw.githubusercontent.com/Venkatesh056/UPI-Dashboard/master/images/Page%204.png)
+
+### 🚨 Page 5
+![Page 5](https://raw.githubusercontent.com/Venkatesh056/UPI-Dashboard/master/images/Page%205.png)
+
+### 💡 Tooltip / Insights
+![Tooltip](https://raw.githubusercontent.com/Venkatesh056/UPI-Dashboard/master/images/Tooltip.png)
 
 ---
 
