@@ -125,11 +125,11 @@ The dashboard simulates a real-world **fintech analytics environment**, enabling
 
 ## 📸 Dashboard Preview
 
-![Dashboard Page 1] (images/Page 1.png)
-![Dashboard Page 2] (images/Page 2.png)
-![Dashboard Page 3] (images/Page 3.png)
-![Dashboard Page 4] (images/Page 4.png)
-![Dashboard Page 5] (images/Page 5.png)
+![Dashboard Page 1] 
+![Dashboard Page 2]
+![Dashboard Page 3] 
+![Dashboard Page 4]
+![Dashboard Page 5] 
 ![Dashboard Tooltip]
 
 
